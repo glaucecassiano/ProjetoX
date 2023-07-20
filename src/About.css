@@ -1,0 +1,11 @@
+h1:hover {
+    color: red;
+}
+
+.lerMao{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}

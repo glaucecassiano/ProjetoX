@@ -1,0 +1,21 @@
+
+
+header{
+  margin-top: 150px;
+}
+
+.projetox {
+
+  width: 1000px;
+
+}
+
+.paginainicial {
+  display: flex;
+  justify-content: space-around;
+}
+
+.projetox:hover{
+  transform: scale(1.5);
+  transition: 0.5s all ease-in-out;
+}
